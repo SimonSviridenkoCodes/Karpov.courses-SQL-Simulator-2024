@@ -9,3 +9,11 @@ This INTRO will serve as ad hoc learning diary to promote meta learning, aggrega
 The queries are executed through Redash, the database is built on PostgreSQL.
 
 **26.06.24**
+
+useful links: 
+
+https://www.sqlstyle.guide/ - SQL style guide
+
+https://codebeautify.org/sqlformatter - SQL formater
+
+https://www.w3schools.com/sql/sql_syntax.asp - SQL Syntax from W3 school
