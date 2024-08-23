@@ -1,0 +1,19 @@
+user_id,order_id,action,time
+170,34428,create_order,04/09/22 01:43
+170,34424,create_order,04/09/22 01:42
+230,24675,create_order,02/09/22 12:21
+200,24538,create_order,02/09/22 11:50
+230,22887,create_order,02/09/22 00:54
+230,22878,create_order,02/09/22 00:50
+230,19543,create_order,01/09/22 07:21
+170,14894,create_order,30/08/22 22:04
+230,14466,create_order,30/08/22 19:51
+170,4194,create_order,27/08/22 17:28
+170,4190,create_order,27/08/22 17:27
+200,3416,create_order,27/08/22 09:36
+200,3413,create_order,27/08/22 09:34
+170,1234,create_order,25/08/22 23:35
+230,263,create_order,25/08/22 02:54
+200,229,create_order,25/08/22 01:52
+200,226,create_order,25/08/22 01:50
+170,188,create_order,25/08/22 00:49
