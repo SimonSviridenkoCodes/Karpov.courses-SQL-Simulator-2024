@@ -1,0 +1,5 @@
+month,action,orders_count
+01/08/22 00:00,cancel_order,967
+01/08/22 00:00,create_order,18799
+01/09/22 00:00,cancel_order,2012
+01/09/22 00:00,create_order,40796
